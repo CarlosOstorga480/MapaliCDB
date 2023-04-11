@@ -2,8 +2,11 @@
 
 ## Los integrantes.
 Carlos Samuel Llanes Cornejo.
+
 Carlos David Ostorga Gálvez.
+
 Ángel Josué Rodríguez Alemán.
+
 Diego Fernando Ruiz Valle.
 
 
